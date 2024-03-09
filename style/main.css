@@ -1,0 +1,13 @@
+h1 {
+  color: rgba(222, 129, 23);
+}
+.main_text {
+  color: rgb(120, 207, 120);
+}
+.btn_link {
+  color: red;
+  text-decoration: none;
+  font-size: 26px;
+  font-weight: 900;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
